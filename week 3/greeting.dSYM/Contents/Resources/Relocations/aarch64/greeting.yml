@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/eunhyeonkang/c-study/2-consts-vars-kaeuhy/week 3/greeting'
+relocations:     []
+...
